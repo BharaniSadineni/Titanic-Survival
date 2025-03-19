@@ -20,7 +20,7 @@ Handling Missing Values:
 
 Age: Imputed using median and grouped by Pclass and Sex.
 
-Cabin: Converted to binary (Cabin available or not).
+Cabin: Dropped.
 
 Embarked: Imputed with the most frequent value.
 
